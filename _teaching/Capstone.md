@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Charlottesville, Virginia"
 ---
 
-I helped mentor a capstone team of senior biomedical engineering students in the [Cardiac Biomechanics Group](https://engineering.virginia.edu/cardiac-biomechanics-group "CBG website") for their project *Creating a user interface for a virtual Cardiac Resynchronization Therapy software*.
+I co-mentored a capstone team of senior biomedical engineering students in the [Cardiac Biomechanics Group](https://engineering.virginia.edu/cardiac-biomechanics-group "CBG website") for their project *Creating a user interface for a virtual Cardiac Resynchronization Therapy software*.
