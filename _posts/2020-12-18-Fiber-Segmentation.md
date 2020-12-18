@@ -26,4 +26,4 @@ Two sample images are shown below:
 * **"DUAAD"** includes 1000 fibers with locally aligned regions
 * **"SBXIQ"** includes 1000 fibers with random alignment
 
-![segmentation example](https://github.com/tkphung/SegmentFibers/blob/master/SegmentationExample.png)
+![segmentation example](https://raw.githubusercontent.com/tkphung/SegmentFibers/master/SegmentationExample.png)
