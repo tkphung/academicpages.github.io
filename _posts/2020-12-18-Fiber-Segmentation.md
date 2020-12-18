@@ -7,9 +7,6 @@ tags:
   - MATLAB
 ---
 
-Fiber Segmentation in MATLAB
-======
-
 I was recently automating segmentation of stress fibers laid down by epithelial cells in a cell culture. We were interested in quantifying the lengths of the stress fibers- in particular, how they change with different treatment conditions. Implementing an automated segmentation method would allow for batch processing of the data as well as removal of potential manual segmentation bias.
 
 I developed the segmentation code in MATLAB by *Frankensteining* methods from two published stress fiber segmentation methods developed by [Rogge+ 2017](https://doi.org/10.1111/jmi.12593) and [Zhang+ 2017](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1684-y).  
