@@ -1,6 +1,6 @@
 ---
 title: 'Fiber Segmentation'
-date: 2012-12-18
+date: 2020-12-18
 permalink: /posts/2020/12/Fiber-Segmentation/
 tags:
   - Image Processing
